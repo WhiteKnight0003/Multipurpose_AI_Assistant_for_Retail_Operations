@@ -35,7 +35,7 @@ def extract_qa_from_customer_support_pdf(pdf_path: str, output_json_path: str) -
                 question = question.replace('\n', '')
                 answer = answer.replace('\n', '')
                 # Create a dictionary for each question-answer pair
-                qa_dict = {"question": question, "answer": answer}
+                qa_dict = {"question": question, "Answer": answer}
                 qa_list.append(qa_dict)
      # Save the collected Q&A pairs to a JSON file
     with open(output_json_path, "w", encoding="utf-8") as json_file:

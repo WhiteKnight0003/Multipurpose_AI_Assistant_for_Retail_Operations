@@ -3,7 +3,7 @@ raw_data_dir:
   technical_support_pdf_dir: './data/raw/technical support.pdf'
   product_specifications_pdf_dir: './data/raw/Product specifications.pdf'
   product_manual_pdf_dir: './data/raw/Product manual.pdf'
-  company_description_pdf_dir: './data/raw/company description.pdf'
+  company_description_doc_dir: './data/raw/docx/company description.docx'
 
 json_dir:
   dir: './data/json'
@@ -12,3 +12,7 @@ json_dir:
   product_manual_json_dir: './data/json/product_manual.json'
   company_description_json_dir: './data/json/company_description.json'
 
+interim_dir:
+  dir: ./data/interim
+  cubetriangle_qa: ./data/interim/cubetriangle_qa.jsonl
+  cubetriangle_instruction_response: ./data/interim/cubetriangle_instruction_response.jsonl
