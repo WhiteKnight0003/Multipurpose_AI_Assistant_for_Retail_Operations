@@ -1,0 +1,14 @@
+raw_data_dir:
+  dir: './data/raw'
+  technical_support_pdf_dir: './data/raw/technical support.pdf'
+  product_specifications_pdf_dir: './data/raw/Product specifications.pdf'
+  product_manual_pdf_dir: './data/raw/Product manual.pdf'
+  company_description_pdf_dir: './data/raw/company description.pdf'
+
+json_dir:
+  dir: './data/json'
+  technical_support_qa: "./data/json/technical_support_qa.json"
+  product_specifications_json_dir: './data/json/product_specifications.json'
+  product_manual_json_dir: './data/json/product_manual.json'
+  company_description_json_dir: './data/json/company_description.json'
+

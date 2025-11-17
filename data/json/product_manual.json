@@ -1,0 +1,566 @@
+[
+    {
+        "instruction": "Explain how to Power On/Off the CubeTriangle Alpha Smartphone.",
+        "response": "Press and hold the side button to power on your CubeTriangle Alpha Smartphone. To power off, press and hold the side button and either volume button, then swipe to power off on the screen."
+    },
+    {
+        "instruction": "Provide instructions for using Facial Recognition on the CubeTriangle Alpha Smartphone.",
+        "response": "Unlock your CubeTriangle Alpha Smartphone with facial recognition by looking directly at the front camera. Ensure proper lighting conditions for optimal performance."
+    },
+    {
+        "instruction": "Guide on charging the CubeTriangle Alpha Smartphone.",
+        "response": "Charge your CubeTriangle Alpha Smartphone using the provided USB-C cable and power adapter. Connect the cable to the device, and plug the adapter into a power source. Enjoy fast charging with the 65W capability for quick and efficient charging."
+    },
+    {
+        "instruction": "How to capture photos using the CubeTriangle Alpha Smartphone?",
+        "response": "Activate the camera by opening the Camera app or using the dedicated shortcut. Use the triple-lens camera system for high-quality photos. Experiment with different modes and settings for a personalized photography experience."
+    },
+    {
+        "instruction": "Explain the process of customizing display settings on the CubeTriangle Alpha Smartphone.",
+        "response": "Adjust the display settings of your CubeTriangle Alpha Smartphone by navigating to 'Settings' and selecting 'Display.' Customize features such as brightness, color balance, and screen timeout to suit your preferences."
+    },
+    {
+        "instruction": "How do I pair my CubeTriangle Beta Smartwatch with a smartphone?",
+        "response": "To pair your CubeTriangle Beta Smartwatch with your smartphone, ensure Bluetooth is enabled on both devices. Open the CubeTriangle app on your smartphone, navigate to 'Devices,' and follow the on-screen instructions to complete the pairing process."
+    },
+    {
+        "instruction": "Instructions for monitoring heart rate with the CubeTriangle Beta Smartwatch.",
+        "response": "Track your heart rate using the CubeTriangle Beta Smartwatch. Open the 'Health' app on the smartwatch, select 'Heart Rate,' and wait for the sensor to provide real-time heart rate data. Regularly monitor your heart rate for a comprehensive health overview."
+    },
+    {
+        "instruction": "How can I change watch faces on my CubeTriangle Beta Smartwatch?",
+        "response": "Personalize your CubeTriangle Beta Smartwatch by changing watch faces. Press and hold the watch face, then swipe left or right to browse available options. Select your preferred watch face to customize the look of your smartwatch."
+    },
+    {
+        "instruction": "How to use GPS on the CubeTriangle Beta Smartwatch for outdoor activities?",
+        "response": "Enhance your outdoor activities by using the built-in GPS on the CubeTriangle Beta Smartwatch. Open the 'Exercise' app, select your activity, and enable GPS tracking for accurate distance and location data."
+    },
+    {
+        "instruction": "Explain how to make contactless payments with the CubeTriangle Beta Smartwatch.",
+        "response": "Enable contactless payments on your CubeTriangle Beta Smartwatch by adding your preferred payment method in the CubeTriangle app. Hold the watch close to the payment terminal to complete transactions securely."
+    },
+    {
+        "instruction": "How to set up voice control on the CubeTriangle Gamma Home Hub?",
+        "response": "Activate voice control on your CubeTriangle Gamma Home Hub by saying 'Hey CubeTriangle.' Follow the on-screen prompts to train the device to recognize your voice. Use voice commands to control smart home devices and access information."
+    },
+    {
+        "instruction": "Guide on connecting smart home devices to the CubeTriangle Gamma Home Hub.",
+        "response": "Pair CubeTriangle Gamma Home Hub with your smart home devices by navigating to 'Settings' and selecting 'Device Pairing.' Follow the on-screen instructions to connect devices using Zigbee, Z-Wave, or Wi-Fi. Enjoy centralized control through the touchscreen interface."
+    },
+    {
+        "instruction": "How to customize facial recognition on the CubeTriangle Gamma Home Hub?",
+        "response": "Optimize CubeTriangle Gamma Home Hub's facial recognition by adding users in the 'Security' section of the settings. The device will learn and recognize faces for personalized settings and access control."
+    },
+    {
+        "instruction": "How can I create automation rules on the CubeTriangle Gamma Home Hub?",
+        "response": "Simplify your daily routines by creating automation rules on CubeTriangle Gamma Home Hub. Access the 'Automation' menu, and set conditions and actions for various devices. Enjoy a smarter, more efficient home environment."
+    },
+    {
+        "instruction": "Instructions for monitoring energy consumption with the CubeTriangle Gamma Home Hub.",
+        "response": "Stay informed about energy usage with CubeTriangle Gamma Home Hub's energy monitoring feature. Access 'Energy' in the settings to view real-time and historical data. Identify energy-hungry devices and optimize usage for efficiency."
+    },
+    {
+        "instruction": "How do I pair my CubeTriangle Delta Earbuds with a smartphone?",
+        "response": "To pair your CubeTriangle Delta Earbuds with your smartphone, open the charging case, ensure Bluetooth is enabled on your device, and select 'CubeTriangle Delta' from the available devices list. Once paired, the earbuds will automatically connect when removed from the case."
+    },
+    {
+        "instruction": "How to use touch controls on the CubeTriangle Delta Earbuds?",
+        "response": "Control playback, calls, and more with touch controls on CubeTriangle Delta Earbuds. Tap once to play/pause, double-tap to skip tracks, and triple-tap to access voice assistant. Customize controls in the CubeTriangle app for a personalized experience."
+    },
+    {
+        "instruction": "How to check the battery status of CubeTriangle Delta Earbuds?",
+        "response": "Monitor the battery status of CubeTriangle Delta Earbuds using the CubeTriangle app or checking the LED indicators on the charging case. Enjoy up to 8 hours of playback with an additional 24 hours provided by the charging case."
+    },
+    {
+        "instruction": "How to activate Low Latency Mode on CubeTriangle Delta Earbuds?",
+        "response": "Enhance your gaming and video experience by activating the Low Latency Mode on CubeTriangle Delta Earbuds. Access the 'Audio Settings' in the CubeTriangle app and toggle the Low Latency Mode for minimal audio delay."
+    },
+    {
+        "instruction": "What is the water resistance of CubeTriangle Delta Earbuds and how to ensure it?",
+        "response": "CubeTriangle Delta Earbuds feature an IPX4 water and sweat resistance rating. Use them confidently during workouts or in light rain. Avoid submerging the earbuds in water to maintain their functionality."
+    },
+    {
+        "instruction": "How to adjust the head strap on the CubeTriangle Epsilon VR Headset?",
+        "response": "Ensure a comfortable fit by adjusting the head strap on CubeTriangle Epsilon VR Headset. Loosen or tighten the straps until the headset rests securely on your head. This ensures an immersive and enjoyable virtual reality experience."
+    },
+    {
+        "instruction": "How to connect the CubeTriangle Epsilon VR Headset to a PC or gaming console?",
+        "response": "Connect CubeTriangle Epsilon VR Headset wirelessly to your PC or gaming console for an immersive gaming experience. Follow the pairing instructions in the user manual or use the included USB-C cable for a wired connection."
+    },
+    {
+        "instruction": "How to use spatial audio and the microphone on the CubeTriangle Epsilon VR Headset?",
+        "response": "Experience spatial audio and use the integrated microphone on CubeTriangle Epsilon VR Headset for a fully immersive communication and gaming experience. Adjust audio settings in the VR environment to suit your preferences."
+    },
+    {
+        "instruction": "Explain the 6 Degrees of Freedom feature of the CubeTriangle Epsilon VR Headset.",
+        "response": "Enjoy an immersive experience with CubeTriangle Epsilon VR Headset's six degrees of freedom. Move freely in all directions and interact with virtual environments for a truly captivating VR experience."
+    },
+    {
+        "instruction": "How to unfold and prepare the CubeTriangle Zeta Drone for flight?",
+        "response": "Unfold the CubeTriangle Zeta Drone to its full configuration. Ensure the propellers are securely attached. Power on the drone by pressing the designated button. Wait for the drone to complete its self-check process."
+    },
+    {
+        "instruction": "How to control the CubeTriangle Zeta Drone using its companion app?",
+        "response": "Download and install the CubeTriangle Zeta Drone companion app on your smartphone. Connect the drone to the app via Wi-Fi. Use the app for real-time camera feed, flight control, and access additional features such as GPS tracking and obstacle avoidance."
+    },
+    {
+        "instruction": "How to capture aerial footage with the CubeTriangle Zeta Drone?",
+        "response": "Lift off the CubeTriangle Zeta Drone and use the app to control the 4K HDR camera with 3-axis gimbal stabilization. Capture breathtaking photos and videos. Experiment with different camera settings for optimal results."
+    },
+    {
+        "instruction": "What smart features does the CubeTriangle Zeta Drone offer and how to use them?",
+        "response": "Explore smart features like obstacle avoidance and GPS tracking. Allow the drone to autonomously navigate around obstacles and use GPS tracking for precise location awareness. Use the app to set waypoints and enjoy hands-free flying."
+    },
+    {
+        "instruction": "How to land and fold the CubeTriangle Zeta Drone for transport?",
+        "response": "When the flight is complete, safely land the CubeTriangle Zeta Drone. Power off the drone and carefully fold it into its compact form for easy transport. Store it in the provided carrying case for added protection."
+    },
+    {
+        "instruction": "How to install and set up the CubeTriangle Eta Smart Thermostat?",
+        "response": "Install the CubeTriangle Eta Smart Thermostat following the provided user manual. Connect it to your HVAC system and power source. Download the CubeTriangle app on your smartphone and follow the in-app instructions to set up the thermostat."
+    },
+    {
+        "instruction": "How to remotely control the CubeTriangle Eta Smart Thermostat using the smartphone app?",
+        "response": "Use the CubeTriangle app to remotely control the Eta Smart Thermostat. Adjust temperature settings, set schedules, and monitor your home's climate from anywhere. Enjoy the convenience of a comfortable home environment."
+    },
+    {
+        "instruction": "Explain the learning capabilities of the CubeTriangle Eta Smart Thermostat.",
+        "response": "Allow the Eta Smart Thermostat to learn your heating and cooling preferences over time. The thermostat will optimize settings to maximize comfort and energy efficiency based on your daily routine."
+    },
+    {
+        "instruction": "How to access energy usage reports for the CubeTriangle Eta Smart Thermostat?",
+        "response": "Access energy usage reports through the CubeTriangle app. Monitor your heating and cooling consumption and receive recommendations on how to save energy and reduce costs."
+    },
+    {
+        "instruction": "How to interact with the CubeTriangle Eta Smart Thermostat using its touch-sensitive controls?",
+        "response": "Interact with the thermostat using its sleek touch-sensitive controls. Easily adjust temperature, switch modes, and access settings directly on the device."
+    },
+    {
+        "instruction": "How to power on and ride the CubeTriangle Theta Electric Scooter?",
+        "response": "Power on the CubeTriangle Theta Electric Scooter by pressing the power button. Kick off and use the handlebar throttle to accelerate. Enjoy a smooth and efficient ride with the 350W motor and reach a top speed of 20 mph."
+    },
+    {
+        "instruction": "How to use the regenerative braking system on the CubeTriangle Theta Electric Scooter?",
+        "response": "Utilize the regenerative braking system by squeezing the brake lever. This system not only slows down the scooter but also recharges the battery, enhancing overall energy efficiency."
+    },
+    {
+        "instruction": "How to monitor the battery life of the CubeTriangle Theta Electric Scooter?",
+        "response": "Check the battery status regularly on the scooter's display. Charge the scooter using the provided charger when needed. The CubeTriangle Theta provides a 15-mile range on a single charge."
+    },
+    {
+        "instruction": "Explain the foldable design feature of the CubeTriangle Theta Electric Scooter.",
+        "response": "Easily fold the CubeTriangle Theta Electric Scooter for convenient portability and storage. Carry it effortlessly or store it in a compact space when not in use."
+    },
+    {
+        "instruction": "What safety features does the CubeTriangle Theta Electric Scooter have?",
+        "response": "Ensure safety during rides with the built-in LED headlight and taillight. Ride with visibility, especially in low-light conditions. Follow local traffic laws and wear appropriate safety gear."
+    },
+    {
+        "instruction": "How to wear and activate the CubeTriangle Iota Fitness Tracker?",
+        "response": "Wear the CubeTriangle Iota Fitness Tracker on your wrist. Activate the tracker by pressing the side button. Follow the on-screen instructions to pair it with your smartphone via Bluetooth."
+    },
+    {
+        "instruction": "How does the CubeTriangle Iota Fitness Tracker perform all-day activity tracking?",
+        "response": "Allow the Iota Fitness Tracker to monitor your daily activities, including steps taken, distance traveled, and calories burned. Access this information through the CubeTriangle app."
+    },
+    {
+        "instruction": "Explain the sleep monitoring and silent alarm features of the CubeTriangle Iota Fitness Tracker.",
+        "response": "Wear the fitness tracker while sleeping to monitor sleep patterns. Set a silent alarm through the app to wake up with gentle vibrations on your wrist, ensuring a peaceful morning."
+    },
+    {
+        "instruction": "What is the waterproof design of the CubeTriangle Iota Fitness Tracker?",
+        "response": "The CubeTriangle Iota Fitness Tracker is waterproof, allowing you to wear it while swimming or showering. The tracker is designed to withstand water exposure, providing versatility for various activities."
+    },
+    {
+        "instruction": "How to receive smartphone notifications and control music with the CubeTriangle Iota Fitness Tracker?",
+        "response": "Receive notifications from your smartphone directly on the fitness tracker. Control music playback on your phone through the tracker's interface, enhancing your workout experience."
+    },
+    {
+        "instruction": "How to power on and pair the CubeTriangle Kappa Portable Speaker?",
+        "response": "Press and hold the power button to turn on the CubeTriangle Kappa Portable Speaker. Activate Bluetooth on your device and pair it with the speaker using Bluetooth 5.0 for a stable connection. The speaker supports multi-device pairing, allowing seamless switching between devices."
+    },
+    {
+        "instruction": "Explain the 360-degree sound experience of the CubeTriangle Kappa Portable Speaker.",
+        "response": "Enjoy immersive 360-degree sound with deep bass. Place the CubeTriangle Kappa in the center of your space to maximize the surround sound experience. Adjust volume and playback controls directly on the speaker."
+    },
+    {
+        "instruction": "How to make hands-free calls with the CubeTriangle Kappa Portable Speaker?",
+        "response": "Answer and make calls hands-free using the built-in microphone. When a call comes in, press the call button on the speaker to answer. The IP67 rating ensures resistance to dust and water, providing durability for outdoor use."
+    },
+    {
+        "instruction": "What is the battery life and charging method for the CubeTriangle Kappa Portable Speaker?",
+        "response": "The CubeTriangle Kappa offers up to 12 hours of playtime on a single charge. Recharge the speaker using the included USB-C cable. The LED indicator will show the charging status, and a full charge takes approximately [insert time] hours."
+    },
+    {
+        "instruction": "Describe the rugged design of the CubeTriangle Kappa Portable Speaker.",
+        "response": "The speaker features a rugged design, making it suitable for various environments. The IP67 rating ensures dust and water resistance. Take your CubeTriangle Kappa anywhere, from the beach to outdoor adventures."
+    },
+    {
+        "instruction": "How to power on and pair the CubeTriangle Lambda Smart Glasses?",
+        "response": "Press and hold the power button on the CubeTriangle Lambda Smart Glasses to turn them on. Activate Bluetooth on your smartphone and pair it with the glasses for a seamless connection."
+    },
+    {
+        "instruction": "Explain the augmented reality display feature of the CubeTriangle Lambda Smart Glasses.",
+        "response": "Experience augmented reality with navigation prompts directly on the display. Swipe and tap on the side of the glasses to interact with virtual elements. Follow prompts for directions, information, and more."
+    },
+    {
+        "instruction": "How to use voice-activated controls on the CubeTriangle Lambda Smart Glasses?",
+        "response": "Utilize voice commands for hands-free control. Activate the voice control feature by saying the wake word. Capture photos or record videos by using voice commands such as \"Take a picture\" or \"Start recording.\""
+    },
+    {
+        "instruction": "How to capture photos and videos with the CubeTriangle Lambda Smart Glasses?",
+        "response": "Capture the moment with the built-in camera. Press the designated button or use voice commands to take photos or record videos. The CubeTriangle Lambda Smart Glasses store media directly on the device for easy retrieval."
+    },
+    {
+        "instruction": "What is the battery life and charging method for the CubeTriangle Lambda Smart Glasses?",
+        "response": "Enjoy a full day of use with the CubeTriangle Lambda's long battery life. Charge the glasses using the magnetic charging cable included in the package. The LED indicator will show the charging status."
+    },
+    {
+        "instruction": "How to place devices for charging on the CubeTriangle Mu Wireless Charger?",
+        "response": "Place Qi-compatible devices on the CubeTriangle Mu Wireless Charger's non-slip surface for effortless charging. Ensure the device is centered on the charger to optimize charging efficiency."
+    },
+    {
+        "instruction": "Describe the fast charging and LED indicator features of the CubeTriangle Mu Wireless Charger.",
+        "response": "Experience fast charging with up to 15W output. The minimalist design includes an LED indicator that shows the charging status. A solid blue light indicates charging, and it turns green when the device is fully charged."
+    },
+    {
+        "instruction": "Describe the design of the CubeTriangle Mu Wireless Charger.",
+        "response": "The CubeTriangle Mu Wireless Charger features a sleek and minimalist design, complementing any workspace or tabletop. The compact form factor makes it easy to integrate into your daily routine."
+    },
+    {
+        "instruction": "What protection features does the CubeTriangle Mu Wireless Charger offer?",
+        "response": "Rest easy knowing that your devices are protected with overcharge and overheating safeguards. The CubeTriangle Mu Wireless Charger prioritizes the safety of your devices during the charging process."
+    },
+    {
+        "instruction": "How to install and set up the CubeTriangle Nu Smart Lock?",
+        "response": "Install the CubeTriangle Nu Smart Lock on your door following the provided instructions. Download the CubeTriangle app on your smartphone and follow the in-app setup to pair the lock with your device."
+    },
+    {
+        "instruction": "What keyless entry options does the CubeTriangle Nu Smart Lock provide?",
+        "response": "Enjoy keyless entry through various options: use your smartphone, enter a secure code on the keypad, or utilize the fingerprint scanner for quick and secure access. The smart lock supports multiple user profiles."
+    },
+    {
+        "instruction": "How to use remote access and guest passcodes with the CubeTriangle Nu Smart Lock?",
+        "response": "Gain remote access to your CubeTriangle Nu Smart Lock via the app. Generate guest passcodes for visitors, ensuring convenient and temporary access. Receive notifications for lock and unlock activities."
+    },
+    {
+        "instruction": "How to track activity and receive tamper alerts for the CubeTriangle Nu Smart Lock?",
+        "response": "Keep track of lock activities through the CubeTriangle app's activity log. Receive tamper alerts if any unauthorized attempts or tampering with the lock are detected. Stay informed about the security of your home."
+    },
+    {
+        "instruction": "What is the battery life of the CubeTriangle Nu Smart Lock and how are notifications handled?",
+        "response": "The CubeTriangle Nu Smart Lock boasts long battery life. Receive a low battery notification through the app when it's time to replace the batteries. The lock operates on standard batteries for easy maintenance."
+    },
+    {
+        "instruction": "How to power on and use variable speed control on the CubeTriangle Xi Smart Blender?",
+        "response": "Press the power button to turn on the CubeTriangle Xi Smart Blender. Use the variable speed control dial to adjust the blending speed according to your preference. Start with a lower speed and gradually increase for smooth results."
+    },
+    {
+        "instruction": "How to use pre-programmed settings on the CubeTriangle Xi Smart Blender?",
+        "response": "Explore the pre-programmed settings for smoothies, soups, and more. Select the desired setting, and the blender will automatically adjust the speed and blending time for optimal results. Enjoy hassle-free blending with just one touch."
+    },
+    {
+        "instruction": "Explain the nutrient extraction technology of the CubeTriangle Xi Smart Blender.",
+        "response": "Benefit from nutrient extraction technology for healthier drinks. The CubeTriangle Xi Smart Blender is designed to break down ingredients and extract nutrients, ensuring your beverages are not only delicious but also nutritious."
+    },
+    {
+        "instruction": "How to use voice control with the CubeTriangle Xi Smart Blender through smart home assistants?",
+        "response": "Connect the CubeTriangle Xi Smart Blender to your smart home assistant for convenient voice control. Simply use voice commands to start or stop blending, adjust speed, or select pre-programmed settings."
+    },
+    {
+        "instruction": "How to clean the CubeTriangle Xi Smart Blender?",
+        "response": "After use, disassemble the blender and place the removable parts in the dishwasher for easy cleaning. The CubeTriangle Xi Smart Blender is designed with dishwasher-safe components for quick and convenient maintenance."
+    },
+    {
+        "instruction": "How to power on and use gesture control on the CubeTriangle Omicron Smart Mirror?",
+        "response": "Power on the CubeTriangle Omicron Smart Mirror using the touch-sensitive button. Navigate through modes using gesture control – swipe left or right to switch between fitness and makeup modes."
+    },
+    {
+        "instruction": "Describe the interactive display modes of the CubeTriangle Omicron Smart Mirror.",
+        "response": "Experience an interactive display with fitness and makeup modes. In fitness mode, access workout routines and track progress. In makeup mode, enjoy virtual makeup try-ons and tutorials for a personalized beauty experience."
+    },
+    {
+        "instruction": "How to use voice control for hands-free operation on the CubeTriangle Omicron Smart Mirror?",
+        "response": "Connect the CubeTriangle Omicron Smart Mirror to your smart home assistant for hands-free voice control. Use voice commands to switch modes, adjust settings, or access specific features without touching the mirror."
+    },
+    {
+        "instruction": "How does the CubeTriangle Omicron Smart Mirror integrate with health apps?",
+        "response": "Integrate the smart mirror with health apps on your smartphone. Track fitness progress, monitor health metrics, and receive personalized recommendations. The CubeTriangle Omicron is your companion for a holistic well-being journey."
+    },
+    {
+        "instruction": "How to adjust the LED lighting on the CubeTriangle Omicron Smart Mirror?",
+        "response": "Illuminate your reflection with adjustable LED lighting. Control the brightness level to create the perfect ambiance in your bathroom. The sleek design of the CubeTriangle Omicron Smart Mirror complements any modern decor."
+    },
+    {
+        "instruction": "How to power on and record video with the CubeTriangle Pi Action Camera?",
+        "response": "Power on the CubeTriangle Pi Action Camera by pressing the dedicated button. Start recording 4K 60fps videos with HyperSmooth stabilization for smooth and clear footage. The one-button simplicity ensures easy operation."
+    },
+    {
+        "instruction": "Describe the waterproof design of the CubeTriangle Pi Action Camera.",
+        "response": "Enjoy underwater adventures with the CubeTriangle Pi Action Camera, waterproof up to 10 meters without the need for a case. Capture stunning moments while snorkeling, swimming, or engaging in water sports."
+    },
+    {
+        "instruction": "How to use live streaming and webcam mode on the CubeTriangle Pi Action Camera?",
+        "response": "Use the CubeTriangle Pi for live streaming capabilities. Connect the camera to your smartphone and share your adventures in real-time. Switch to webcam mode for virtual meetings and video calls."
+    },
+    {
+        "instruction": "How to use voice control and GPS tagging on the CubeTriangle Pi Action Camera?",
+        "response": "Activate voice control to operate the camera hands-free. Use voice commands to start/stop recording or capture photos. The CubeTriangle Pi Action Camera features GPS and motion sensors to tag and track your adventures."
+    },
+    {
+        "instruction": "How to power on and use smart navigation on the CubeTriangle Rho Robotic Vacuum?",
+        "response": "Power on the CubeTriangle Rho Robotic Vacuum using the onboard button. The vacuum utilizes smart navigation with room mapping to efficiently clean your home. Allow it to scan and plan its route for optimal coverage."
+    },
+    {
+        "instruction": "How to use the app control for scheduling and spot cleaning with the CubeTriangle Rho Robotic Vacuum?",
+        "response": "Download the CubeTriangle app and connect it to the Rho Robotic Vacuum. Schedule cleaning sessions, set preferences, and activate spot cleaning for targeted areas. Enjoy the convenience of app control."
+    },
+    {
+        "instruction": "Explain the auto-return to charging dock feature of the CubeTriangle Rho Robotic Vacuum.",
+        "response": "The CubeTriangle Rho automatically returns to its charging dock when the battery is low. Ensure the charging dock is placed in a convenient location, and the vacuum will autonomously recharge, ready for the next cleaning session."
+    },
+    {
+        "instruction": "How to control the CubeTriangle Rho Robotic Vacuum using voice commands via smart home assistants?",
+        "response": "Integrate the robotic vacuum with your smart home assistant for voice control. Use voice commands to start or stop cleaning, ask for the vacuum's status, or send it back to the charging dock."
+    },
+    {
+        "instruction": "How to program brewing schedules on the CubeTriangle Sigma Smart Coffee Maker?",
+        "response": "Press the \"Program\" button on the CubeTriangle Sigma Smart Coffee Maker to set your preferred brewing schedule. Use the display interface to choose the desired time for the coffee maker to start brewing automatically."
+    },
+    {
+        "instruction": "How to adjust coffee strength on the CubeTriangle Sigma Smart Coffee Maker?",
+        "response": "Customize your coffee strength using the strength control feature. Select your preferred strength level on the display before starting the brewing process. Experiment with different settings to find the perfect brew for your taste."
+    },
+    {
+        "instruction": "How to use the built-in grinder for fresh coffee beans on the CubeTriangle Sigma Smart Coffee Maker?",
+        "response": "Load fresh coffee beans into the built-in grinder for a rich and aromatic brew. Adjust the grind settings to achieve the desired coarseness. The CubeTriangle Sigma ensures that you enjoy the full flavor of freshly ground coffee."
+    },
+    {
+        "instruction": "How does the CubeTriangle Sigma Smart Coffee Maker integrate with smart home systems?",
+        "response": "Connect the CubeTriangle Sigma to your smart home system for voice-activated brewing. Use voice commands with your preferred smart assistant to start brewing without lifting a finger."
+    },
+    {
+        "instruction": "Explain the Keep-Warm feature and Auto-Shutoff on the CubeTriangle Sigma Smart Coffee Maker.",
+        "response": "Activate the keep-warm feature to maintain the temperature of your brewed coffee. For safety and energy efficiency, the CubeTriangle Sigma includes an auto-shutoff function after a set period of inactivity."
+    },
+    {
+        "instruction": "How to power on and select riding modes on the CubeTriangle Tau Electric Bike?",
+        "response": "Power on the CubeTriangle Tau Electric Bike using the integrated display. Choose between pedal assist and throttle modes for a personalized riding experience. Adjust the level of pedal assist based on your desired level of assistance."
+    },
+    {
+        "instruction": "Explain the removable battery and range indicator of the CubeTriangle Tau Electric Bike.",
+        "response": "Remove the battery for convenient charging. The CubeTriangle Tau provides a range of 40 miles on a single charge. Monitor the battery life through the display, ensuring you have sufficient power for your journey."
+    },
+    {
+        "instruction": "What information is shown on the integrated display of the CubeTriangle Tau Electric Bike?",
+        "response": "Keep track of your speed, distance traveled, and battery life on the integrated display. Easily navigate through different functions using the intuitive controls on the handlebar."
+    },
+    {
+        "instruction": "Describe the Shimano gears and hydraulic disc brakes on the CubeTriangle Tau Electric Bike.",
+        "response": "Shift smoothly between gears with the Shimano transmission system. Enjoy responsive and reliable braking with the hydraulic disc brakes, ensuring a safe and controlled riding experience."
+    },
+    {
+        "instruction": "Describe the lightweight aluminum frame of the CubeTriangle Tau Electric Bike.",
+        "response": "The CubeTriangle Tau features a lightweight aluminum frame with a sleek design. Enjoy a comfortable and stylish ride while easily maneuvering through various terrains."
+    },
+    {
+        "instruction": "How to customize temperature zones in the CubeTriangle Omega Smart Refrigerator?",
+        "response": "Adjust the temperature zones inside the 22 cu ft. CubeTriangle Omega Smart Refrigerator to suit different types of food. Use the touchscreen interface to set specific temperature levels for optimal freshness."
+    },
+    {
+        "instruction": "How to use the touchscreen interface for recipe suggestions on the CubeTriangle Omega Smart Refrigerator?",
+        "response": "Access the touchscreen interface for recipe suggestions based on the contents of your refrigerator. Browse through a variety of recipes and get inspiration for your next meal. The CubeTriangle Omega helps you make the most of your ingredients."
+    },
+    {
+        "instruction": "How does the CubeTriangle Omega Smart Refrigerator track inventory with interior cameras?",
+        "response": "View the contents of your refrigerator remotely via the smartphone app. The interior cameras provide a clear view, helping you keep track of your inventory and make informed grocery shopping decisions."
+    },
+    {
+        "instruction": "Explain the energy-efficient design and rapid cool/freeze functions of the CubeTriangle Omega Smart Refrigerator.",
+        "response": "Utilize the energy-efficient design of the CubeTriangle Omega. Activate the rapid cool and freeze functions when loading groceries, ensuring that your food reaches the desired temperature quickly and efficiently."
+    },
+    {
+        "instruction": "How does the CubeTriangle Omega Smart Refrigerator integrate with smart home systems for remote adjustments?",
+        "response": "Connect the CubeTriangle Omega to your smart home system for remote adjustments. Change temperature settings, receive notifications about door status, and enjoy the convenience of a smart and connected kitchen."
+    },
+    {
+        "instruction": "Describe the audio features of the CubeTriangle Psi Wireless Sound System.",
+        "response": "Experience high-fidelity audio with 360-degree sound projection. Place the CubeTriangle Psi Wireless Sound System in the center of the room for an immersive listening experience."
+    },
+    {
+        "instruction": "How to use multi-room sync with the CubeTriangle Psi Wireless Sound System?",
+        "response": "Synchronize multiple CubeTriangle Psi units for a seamless listening experience throughout your home. Enjoy consistent audio quality in every room, creating a harmonious atmosphere."
+    },
+    {
+        "instruction": "What voice control compatibility does the CubeTriangle Psi Wireless Sound System have?",
+        "response": "Connect the sound system to major smart assistants for voice control. Use voice commands to adjust volume, skip tracks, or switch between input sources without needing a remote."
+    },
+    {
+        "instruction": "Describe the design and controls of the CubeTriangle Psi Wireless Sound System.",
+        "response": "The CubeTriangle Psi features a durable and sleek design, complementing any room. Control playback, adjust settings, and manage volume using the intuitive touch controls on the device."
+    },
+    {
+        "instruction": "How to set up the CubeTriangle Psi Wireless Sound System?",
+        "response": "Set up the CubeTriangle Psi with ease using Wi-Fi or Bluetooth connectivity options. Connect to your preferred device and start enjoying high-quality audio in minutes."
+    },
+    {
+        "instruction": "How to power on and accelerate the CubeTriangle Chi Electric Skateboard?",
+        "response": "Turn on the CubeTriangle Chi Electric Skateboard using the power button on the deck. Use the wireless remote control to accelerate smoothly. Experiment with the trigger for gradual speed increases."
+    },
+    {
+        "instruction": "Explain the regenerative braking and smooth ride features of the CubeTriangle Chi Electric Skateboard.",
+        "response": "Experience regenerative braking by gently pulling back on the remote control trigger. The CubeTriangle Chi utilizes shock-absorbing wheels for a smooth ride, enhancing stability and comfort during your journey."
+    },
+    {
+        "instruction": "Describe the durable and waterproof deck of the CubeTriangle Chi Electric Skateboard.",
+        "response": "The durable deck of the CubeTriangle Chi is waterproof, allowing you to ride confidently in various weather conditions. Integrated LED safety lights enhance visibility, ensuring a safe and stylish ride."
+    },
+    {
+        "instruction": "How to use the wireless remote control for the CubeTriangle Chi Electric Skateboard?",
+        "response": "Control your speed effortlessly with the wireless remote. Use the intuitive controls to accelerate, brake, and navigate. The remote is designed for ease of use, providing a seamless riding experience."
+    },
+    {
+        "instruction": "How to use the companion app for route tracking with the CubeTriangle Chi Electric Skateboard?",
+        "response": "Enhance your riding experience with the CubeTriangle companion app. Track your routes, monitor battery levels, and access additional features for a personalized and connected electric skateboard experience."
+    },
+    {
+        "instruction": "How to power on and monitor air quality with the CubeTriangle Phi Smart Air Purifier?",
+        "response": "Power on the CubeTriangle Phi Smart Air Purifier using the control panel. Benefit from true HEPA filtration and real-time air quality monitoring. The display provides visual feedback on the current air quality."
+    },
+    {
+        "instruction": "Explain the quiet operation and sleep mode of the CubeTriangle Phi Smart Air Purifier.",
+        "response": "Enjoy quiet operation during the day, and activate sleep mode for undisturbed rest at night. The CubeTriangle Phi adjusts its operation based on the ambient conditions, ensuring optimal purification without unnecessary noise."
+    },
+    {
+        "instruction": "How do smart sensors work for automatic adjustment on the CubeTriangle Phi Smart Air Purifier?",
+        "response": "Utilize smart sensors to automatically adjust purification levels based on the detected air quality. The CubeTriangle Phi optimizes its performance to provide clean and fresh air tailored to your surroundings."
+    },
+    {
+        "instruction": "How to use voice and app control for the CubeTriangle Phi Smart Air Purifier?",
+        "response": "Control the air purifier using voice commands or the dedicated app. Schedule purification cycles, monitor filter life, and operate the device remotely for convenient and efficient air quality management."
+    },
+    {
+        "instruction": "Describe the design of the CubeTriangle Phi Smart Air Purifier.",
+        "response": "The CubeTriangle Phi features a sleek and modern design that complements any room décor. Place it discreetly in your living space to enjoy clean air without compromising on style."
+    },
+    {
+        "instruction": "How to power on and record video with the CubeTriangle Ksi 4K Action Cam?",
+        "response": "Power on the CubeTriangle Ksi 4K Action Cam by pressing the power button. Capture Ultra HD 4K video at 60fps with electronic image stabilization for smooth and clear footage. Use the dedicated button for easy recording."
+    },
+    {
+        "instruction": "Describe the waterproof and adventure-ready build of the CubeTriangle Ksi 4K Action Cam.",
+        "response": "The CubeTriangle Ksi is waterproof up to 15 meters without the need for an external case. Enjoy underwater adventures and confidently record in challenging environments with its rugged, adventure-ready build."
+    },
+    {
+        "instruction": "Explain the dual-screen design and selfie mode of the CubeTriangle Ksi 4K Action Cam.",
+        "response": "Take advantage of the dual-screen design for easy framing. Switch to selfie mode for capturing your adventures. The CubeTriangle Ksi ensures you get the perfect shot every time."
+    },
+    {
+        "instruction": "How to use live streaming and social media integration on the CubeTriangle Ksi 4K Action Cam?",
+        "response": "Enable live streaming support to share your experiences in real-time. Connect the CubeTriangle Ksi to your social media accounts for seamless sharing of your action-packed moments with friends and followers."
+    },
+    {
+        "instruction": "What is the battery life and charging for the CubeTriangle Ksi 4K Action Cam?",
+        "response": "The CubeTriangle Ksi comes with a long-lasting battery for extended recording sessions. Charge the camera quickly using the provided cable for minimal downtime between adventures."
+    },
+    {
+        "instruction": "How to set up the CubeTriangle Pi-2 Smart Fitness Equipment as an interactive home gym system?",
+        "response": "Set up the CubeTriangle Pi-2 Smart Fitness Equipment in your home gym space. Connect it to your Wi-Fi network and follow the on-screen instructions for initial setup. Enjoy an interactive fitness experience with AI-powered workout guidance."
+    },
+    {
+        "instruction": "How does the CubeTriangle Pi-2 Smart Fitness Equipment automatically adjust resistance?",
+        "response": "The CubeTriangle Pi-2 automatically adjusts resistance levels based on your fitness level and goals. Customize your workout plan, and the equipment adapts to provide a challenging and effective exercise routine."
+    },
+    {
+        "instruction": "How to access live and on-demand classes on the CubeTriangle Pi-2 Smart Fitness Equipment?",
+        "response": "Access live and on-demand classes led by professional trainers. Follow guided workouts tailored to your preferences and fitness goals. Stay motivated with engaging sessions that cater to various exercise styles."
+    },
+    {
+        "instruction": "Describe the compact and foldable design of the CubeTriangle Pi-2 Smart Fitness Equipment.",
+        "response": "The CubeTriangle Pi-2 features a compact and foldable design for easy storage in any space. Fold and unfold the equipment effortlessly, making it suitable for apartments, small rooms, or homes with limited workout space."
+    },
+    {
+        "instruction": "How to use integrated health tracking and goal setting on the CubeTriangle Pi-2 Smart Fitness Equipment?",
+        "response": "Monitor your health and fitness progress with integrated health tracking features. Receive progress reports on your performance and set personalized fitness goals through the CubeTriangle Pi-2 app for a comprehensive fitness journey."
+    },
+    {
+        "instruction": "How to power on and adjust LED lighting on the CubeTriangle Omicron-2 Smart Makeup Mirror?",
+        "response": "Power on the CubeTriangle Omicron-2 Smart Makeup Mirror using the touch-sensitive button. Adjust the LED lighting to your preference by swiping across the touchscreen interface. Achieve high-definition clarity for flawless makeup application."
+    },
+    {
+        "instruction": "How to access virtual makeup and skincare tutorials on the CubeTriangle Omicron-2 Smart Makeup Mirror?",
+        "response": "Access virtual makeup and skincare tutorials with AR technology through the CubeTriangle Omicron-2 app. Follow step-by-step guides for different looks and learn personalized skincare routines for radiant skin."
+    },
+    {
+        "instruction": "How does the CubeTriangle Omicron-2 Smart Makeup Mirror provide skin analysis and product recommendations?",
+        "response": "Utilize the skin analysis feature for personalized product recommendations. The CubeTriangle Omicron-2 assesses your skin condition and suggests suitable makeup and skincare products to enhance your beauty routine."
+    },
+    {
+        "instruction": "How to use the touchscreen interface with social media connectivity on the CubeTriangle Omicron-2 Smart Makeup Mirror?",
+        "response": "Connect the mirror to your social media accounts through the touchscreen interface. Share your makeup looks directly, enhancing your social media presence. Use the mirror to capture the perfect beauty shots effortlessly."
+    },
+    {
+        "instruction": "Describe the design of the CubeTriangle Omicron-2 Smart Makeup Mirror.",
+        "response": "The CubeTriangle Omicron-2 boasts an elegant design that elevates any vanity or bathroom. Enhance your space with a stylish and functional smart makeup mirror that complements your aesthetic."
+    },
+    {
+        "instruction": "How to power on and adjust settings on the CubeTriangle Upsilon-2 Mini Projector?",
+        "response": "Power on the CubeTriangle Upsilon-2 Mini Projector and navigate through the settings using the touchscreen interface. Adjust the projection mode, resolution, and other preferences for a customized viewing experience."
+    },
+    {
+        "instruction": "How to use wireless casting from devices with the CubeTriangle Upsilon-2 Mini Projector?",
+        "response": "Connect your smartphone, tablet, or laptop to the CubeTriangle Upsilon-2 via wireless casting. Share presentations, videos, or photos seamlessly, making it an ideal device for both personal and professional use."
+    },
+    {
+        "instruction": "Describe the immersive audio features of the CubeTriangle Upsilon-2 Mini Projector.",
+        "response": "Enjoy immersive audio with the integrated speakers that support Dolby Atmos. Enhance your movie-watching or presentation experience with rich, clear sound directly from the CubeTriangle Upsilon-2."
+    },
+    {
+        "instruction": "Describe the design and battery of the CubeTriangle Upsilon-2 Mini Projector.",
+        "response": "The CubeTriangle Upsilon-2 features an ultra-portable design and a built-in rechargeable battery. Take your entertainment or presentations anywhere without the need for a power outlet."
+    },
+    {
+        "instruction": "Describe the durability and splash resistance of the CubeTriangle Upsilon-2 Mini Projector.",
+        "response": "The durable construction of the CubeTriangle Upsilon-2 ensures reliability. With an IPX4 splash resistance rating, the projector can withstand accidental spills or light rain, providing peace of mind during outdoor use."
+    },
+    {
+        "instruction": "How to use precision temperature control on the CubeTriangle Sigma-2 Smart Kettle?",
+        "response": "Use the touchscreen controls on the CubeTriangle Sigma-2 Smart Kettle to set the precise temperature for your desired brew. Experience the perfect cup of tea or coffee every time."
+    },
+    {
+        "instruction": "How to activate the keep-warm function on the CubeTriangle Sigma-2 Smart Kettle?",
+        "response": "Activate the keep-warm function to maintain the set temperature for up to 60 minutes. Enjoy hot beverages at your leisure without the need for reheating."
+    },
+    {
+        "instruction": "How to use voice and app control for remote boiling with the CubeTriangle Sigma-2 Smart Kettle?",
+        "response": "Connect the smart kettle to your preferred smart assistant for voice control. Alternatively, use the CubeTriangle app to control the kettle remotely, schedule boiling times, and receive notifications."
+    },
+    {
+        "instruction": "Describe the design and LED indicators of the CubeTriangle Sigma-2 Smart Kettle.",
+        "response": "The CubeTriangle Sigma-2 features a sleek stainless steel design with LED indicators. Monitor the boiling process and temperature at a glance, adding a touch of modern elegance to your kitchen."
+    },
+    {
+        "instruction": "What safety features like boil-dry protection and auto-shutoff does the CubeTriangle Sigma-2 Smart Kettle have?",
+        "response": "Benefit from safety features like boil-dry protection and auto-shutoff. The CubeTriangle Sigma-2 prioritizes safety by automatically turning off when the water level is too low or when the boiling process is complete."
+    },
+    {
+        "instruction": "How to power on and select riding modes on the CubeTriangle Theta-2 Electric Scooter Pro?",
+        "response": "Power on the CubeTriangle Theta-2 Electric Scooter Pro using the onboard button. Select your riding mode based on your preference – choose between standard and sport modes for a customized experience."
+    },
+    {
+        "instruction": "Describe the enhanced motor and top speed of the CubeTriangle Theta-2 Electric Scooter Pro.",
+        "response": "Experience an enhanced 500W motor that propels the scooter to a top speed of 25 mph. Enjoy a swift and efficient commute, reaching your destination with speed and style."
+    },
+    {
+        "instruction": "What is the range and charging capability of the CubeTriangle Theta-2 Electric Scooter Pro?",
+        "response": "The CubeTriangle Theta-2 provides an extended 20-mile range on a single charge. Utilize fast-charging battery technology for a quick recharge between rides, ensuring your scooter is ready for your next adventure."
+    },
+    {
+        "instruction": "Describe the advanced suspension system of the CubeTriangle Theta-2 Electric Scooter Pro.",
+        "response": "Cruise comfortably on urban terrain with the advanced suspension system. The CubeTriangle Theta-2 Electric Scooter Pro absorbs shocks and vibrations, providing a smooth and enjoyable ride."
+    },
+    {
+        "instruction": "How to use the smart dashboard display with navigation on the CubeTriangle Theta-2 Electric Scooter Pro?",
+        "response": "Access essential information on the smart dashboard display. Monitor your speed, battery stats, and navigate through the city with ease. Stay informed and in control while riding your CubeTriangle Theta-2."
+    }
+]
