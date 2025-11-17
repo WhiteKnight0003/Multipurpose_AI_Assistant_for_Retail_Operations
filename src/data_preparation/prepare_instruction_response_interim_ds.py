@@ -18,10 +18,10 @@ def prepare_instruction_response_interim_ds(data_dir):
 
 
 if __name__ == "__main__":
-    with open(here("configs/config.yml")) as cfg:
+    with open(here("./config/config.yml")) as cfg:
         app_config = yaml.load(cfg, Loader=yaml.FullLoader)
     dataset = prepare_instruction_response_interim_ds(
-        data_dir=app_config["json_dir"]["product_user_manual_instruction_response"])
+        data_dir=app_config["json_dir"]["product_manual_json_dir"])
     with jsonlines.open(here(app_config["interim_dir"]["cubetriangle_instruction_response"]), 'w') as writer:
         writer.write_all(dataset)
 
