@@ -36,8 +36,8 @@ def prepare_interim_qa_dataset(df: pd.DataFrame) -> List:
     - List[dict]: List of dictionaries with 'question' and 'answer' keys.
     """
     finetuning_dataset = []
-    for i in range(len(df["question"])):
-        question = f"### Question:\n{df['question'][i]}\n\n\n### Answer:\n"
+    for i in range(len(df["Question"])):
+        question = f"### Question:\n{df['Question'][i]}\n\n\n### Answer:\n"
         answer = df['Answer'][i]
         finetuning_dataset.append(
             {"question": question, "answer": answer})
